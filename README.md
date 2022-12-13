@@ -3,9 +3,8 @@
 <div>
     <a href="https://github.com/henriquedev">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=hnrdev&show_icones=true&theme=tokyonnight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=hnrdev&layout=compact&langs_count=6&theme=tokyonight"/>
+            src="https://github-readme-stats.vercel.app/api?username=henriquedev&show_icones=true&theme=tokyonnight&include_all_commits=true&count_private=true"/>
+
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40"
@@ -15,7 +14,9 @@
     <img align="center" alt="CSS" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-</div>
+</div> <br>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -30,3 +31,5 @@
     <a href"-" target="_blank"<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=White" target="_blank"></a>
     
 ![snake gif](https://github.com/henriquedev/henriquedev/blob/output/github-contribution-grid-snake.gif)
+    
+ 
